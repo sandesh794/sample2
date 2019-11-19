@@ -1,5 +1,3 @@
 Git example .......
 git exx2
 git exxxx3
-
-in the test branch
