@@ -1,6 +1,3 @@
 Git example .......
 git exx2
 git exxxx3
-
-
-This is git example
